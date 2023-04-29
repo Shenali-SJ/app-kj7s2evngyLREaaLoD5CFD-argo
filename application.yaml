@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Shenali-SJ/app-kj7s2evngyLREaaLoD5CFD-argo.git
+    repoURL: https://github.com/Shenali-SJ/app-kj7s2evngyLREaaLoD5CFD-helm.git
     targetRevision: HEAD
     path: helm/templates
   destination:
