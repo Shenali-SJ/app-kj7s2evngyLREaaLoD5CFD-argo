@@ -10,7 +10,7 @@ spec:
     targetRevision: HEAD
     path: helm/templates
   destination:
-    server: https://kubernetes.example.com
+    server: https://kubernetes.default.svc
     namespace: argoapp
   syncPolicy:
     syncOptions:
